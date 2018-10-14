@@ -1,1 +1,3 @@
-#display_rainbowred", "orange", "yellow", "green", "blue", "indigo", "violet"]
+def #display_rainbow
+
+colours = [red", "orange", "yellow", "green", "blue", "indigo", "violet"]
