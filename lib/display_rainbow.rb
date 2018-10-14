@@ -1,3 +1,1 @@
-#display_rainbow
-
-rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+#display_rainbowred", "orange", "yellow", "green", "blue", "indigo", "violet"]
