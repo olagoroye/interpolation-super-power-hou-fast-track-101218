@@ -1,3 +1,3 @@
 #display_rainbow
 
-def
+rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
