@@ -1,1 +1,3 @@
-def #display_rainbow
+#display_rainbow
+
+def
