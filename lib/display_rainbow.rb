@@ -1,5 +1,6 @@
-def #display_rainbow [red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+def #display_rainbow (colors)
+colors = [ red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-puts "The first letter in the colors: #{letters [1]}
+puts "The first letter in the #display_rainbow: #{colors [1]}
 
 end
